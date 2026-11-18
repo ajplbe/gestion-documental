@@ -1,7 +1,7 @@
 # Temporales y copias.
 *.tmp
 *.bak
-congif.local
+config.local
 
 # Log
 *.log

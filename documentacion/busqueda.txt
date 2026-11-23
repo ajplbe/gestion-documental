@@ -1,0 +1,5 @@
+BÚSQUEDA DE EXPEDIENTES
+
+La aplicación permitirá buscar por expedientes por:
+    - Fecha de Registro.
+    - Unidad administrativa.

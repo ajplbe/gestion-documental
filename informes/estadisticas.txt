@@ -1,0 +1,5 @@
+ESTADÍSTICAS DEL SISTEMA
+
+Expedientes registrados: 150
+Usuarios: 25
+Unidades administrativas: 5

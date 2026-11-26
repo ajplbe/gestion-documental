@@ -6,4 +6,7 @@ Este proyecto contiene documentación, configuraciones e informes.
 
 Esto es un proyecto de formación
 
-Nueva funcionalidad
+##Funcionalidades
+- Registro de expedientes
+- Consulta de expedientes
+-Gestión de expedientes
